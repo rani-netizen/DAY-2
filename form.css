@@ -1,0 +1,32 @@
+input[type="email"] {
+    width:100%;
+    display:block;
+    box-sizing: border-box;
+    padding:0 10px;
+    height:40px;
+     margin-bottom: 20px;
+}
+input[type="password"] {
+    width:100%;
+    display:block;
+    box-sizing: border-box;
+    padding:0 10px;
+    height:40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+}
+input[type="submit"] {
+    width:100%;
+    display:block;
+    box-sizing: border-box;
+    padding:0 10px;
+    height:40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+    background-color: plum;
+    border-radius: 10px;;
+}
+form{
+    background-color:lightpink;
+    padding: 30px 30px;
+}
