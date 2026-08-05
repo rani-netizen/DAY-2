@@ -1,0 +1,14 @@
+.container{
+    position: relative;
+    display:block;
+    width:500px;
+}
+.description{ 
+    position:absolute;
+    width:700px;
+    bottom:0px;
+    left:0px;
+    color:aliceblue;
+    background-color: rgba(255,0,0,.5);
+
+}
